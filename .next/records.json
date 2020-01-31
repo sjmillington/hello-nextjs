@@ -1,0 +1,41 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi next-client-pages-loader?page=%2F_app&absolutePagePath=next%2Fdist%2Fpages%2F_app! node_modules/next/dist/client/router.js": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "framework": 2,
+      "dd29663e79d39e52fa650749a514d6371e53ec68": 3,
+      "static/lomkPQ-m3m5OLog1b_pkS/pages/_app.js": 4,
+      "static/lomkPQ-m3m5OLog1b_pkS/pages/_error.js": 5,
+      "static/lomkPQ-m3m5OLog1b_pkS/pages/about.js": 6,
+      "static/lomkPQ-m3m5OLog1b_pkS/pages/index.js": 7,
+      "static/lomkPQ-m3m5OLog1b_pkS/pages/posts/[id].js": 8,
+      "static/lomkPQ-m3m5OLog1b_pkS/pages/quote.js": 9,
+      "static/runtime/main.js": 10,
+      "static/runtime/polyfills.js": 11
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}
